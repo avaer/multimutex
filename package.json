@@ -1,0 +1,21 @@
+{
+  "name": "multimutex",
+  "version": "0.0.1",
+  "description": "Keyed in-memory mutexes",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modulesio/multimutex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modulesio/multimutex/issues"
+  },
+  "homepage": "https://github.com/modulesio/multimutex#readme"
+}
