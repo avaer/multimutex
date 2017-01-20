@@ -61,7 +61,7 @@ class Mutex {
   unlock() {
     this.locked = false;
 
-    const next = this.queue.pop();
+    const next = this.queue.shift();
     if (next) {
       next();
     } else {
