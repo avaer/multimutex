@@ -1,6 +1,6 @@
 {
   "name": "multimutex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Keyed in-memory mutexes",
   "main": "index.js",
   "dependencies": {},
